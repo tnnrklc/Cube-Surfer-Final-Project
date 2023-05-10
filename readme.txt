@@ -2,7 +2,7 @@ When you open the project clear player prefs from the edit.
 
 Read the readme file for game instructions.
 
-Foe some reason when the project is downloaded it doesn't start menu screen so you need to go to cube surfer asset -> scenes -> Menu scene then start the project. Another problem you might face is the screen ratio problem. Please set the the ratio to 9x16 aspect if the project doesn't open that way.
+For some reason when the project is downloaded it doesn't start from the menu screen so you need to go to cube surfer asset -> scenes -> Menu scene then start the project. Another problem you might face is the screen ratio problem. Please set the the ratio to 9x16 aspect if the project doesn't open that way. You might also need to change the platform settings to android if it is not set to android.
 
 Start the project. You will see 5 buttons. 
 
