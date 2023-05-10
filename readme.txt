@@ -1,5 +1,9 @@
 When you open the project clear player prefs from the edit.
 
+Read the readme file for game instructions.
+
+Foe some reason when the project is downloaded it doesn't start menu screen so you need to go to cube surfer asset -> scenes -> Menu scene then start the project. Another problem you might face is the screen ratio problem. Please set the the ratio to 9x16 aspect if the project doesn't open that way.
+
 Start the project. You will see 5 buttons. 
 
 If you click play, the game will start from the first level with default character Ty. Move your finger left and right to move. Collect the cubes and the coins. Try to make It to the finish line without dying. When you reach to the finish line you can go to next level, main menu, restart the level, and quit the game. 
